@@ -1,4 +1,4 @@
-![Logo HackerspaceVLC][logo.png]
+![Logo HackerspaceVLC](logo.png "HackerspaceVLC")
 
 # ¿Qué es un Hackerspace?
 
