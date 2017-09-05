@@ -26,13 +26,14 @@ Calle Francisco Martínez, 19, Bajo
 CP 46020, Valencia (Benimaclet)
 España
 
+### Horario oficial de apertura
+
+* Todos los martes no festivos, de **17:30** a **20:30**.
+* Para otros días no-oficiales, consultar los eventos programados.
+
 ### Cómo llegar
 
 * **Metro:** Líneas 3,9: Machado y Benimaclet.
 * **Tranvía:** Líneas 4,6: Benimaclet.
 * **Autobús:** Líneas 70,12 (parada Emili Baró - Francesc Martínez), 10 (parada Lliri Blau-Mestre Bonaventura Pascual).
 
-### Horario oficial de apertura
-
-* Todos los martes no festivos, de **17:30** a **20:30**.
-* Para otros días no-oficiales, consultar los eventos programados.
