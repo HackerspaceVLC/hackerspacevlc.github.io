@@ -37,3 +37,5 @@ España
 * **Tranvía:** Líneas 4,6: Benimaclet.
 * **Autobús:** Líneas 70,12 (parada Emili Baró - Francesc Martínez), 10 (parada Lliri Blau-Mestre Bonaventura Pascual).
 
+![mini_mapa.png](mini_mapa.png "Mapa")
+[Ampliar el mapa](https://www.openstreetmap.org/?mlat=39.48828&mlon=-0.35839#map=19/39.48828/-0.35839&layers=N)
