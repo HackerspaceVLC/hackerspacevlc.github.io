@@ -14,8 +14,10 @@ Disponemos de un local en el barrio de Benimaclet donde los socios y socias pued
 de los socios imparte un taller sobre algún tema interesante que conozca en detalle, para compartir conocimientos y ponernos al día.
 
 ![foto1.png](foto1.png "")
-![foto2.png](foto1.png "")
-![foto3.png](foto1.png "")
+
+![foto2.png](foto2.png "")
+
+![foto3.png](foto3.png "")
 
 # Quiero unirme
 
