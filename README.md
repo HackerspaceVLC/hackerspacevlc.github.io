@@ -8,6 +8,15 @@ HackerspaceVLC es un espacio abierto a todos y a todas las personas que tengan i
 
 No es necesario que tengas conocimientos sobre informática o electrónica, en el HackerspaceVLC encaja toda persona que tenga interés por aprender y pasarlo bien es bienvenida.
 
+# Local y actividades
+
+Disponemos de un local en el barrio de Benimaclet donde los socios y socias pueden reunirse y poner en marcha sus proyectos, con equipamiento, espacio de almacenaje y espacios de trabajo. Además, el primer sábado de cada mes uno
+de los socios imparte un taller sobre algún tema interesante que conozca en detalle, para compartir conocimientos y ponernos al día.
+
+![foto1.png](foto1.png "")
+![foto2.png](foto1.png "")
+![foto3.png](foto1.png "")
+
 # Quiero unirme
 
 Al unirte a HackerspaceVLC pasarás a ser un miembro más de la asociación con pleno derecho a utilizar nuestras instalaciones y equipamiento, como equipos de soldadura, electrónica, ordenadores, etc... Para asociarte tan solo deberás venir una de las jornadas de puertas abiertas y podrás unirte en el mismo día.
