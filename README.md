@@ -13,11 +13,11 @@ No es necesario que tengas conocimientos sobre informática o electrónica, en e
 Disponemos de un local en el barrio de Benimaclet donde los socios y socias pueden reunirse y poner en marcha sus proyectos, con equipamiento, espacio de almacenaje y espacios de trabajo. Además, el primer sábado de cada mes uno
 de los socios imparte un taller sobre algún tema interesante que conozca en detalle, para compartir conocimientos y ponernos al día.
 
-![foto1.png](foto1.png "")
+![foto1.png](foto1.png "foto1.png")
 
-![foto2.png](foto2.png "")
+![foto2.png](foto2.png "foto2.png")
 
-![foto3.png](foto3.png "")
+![foto3.png](foto3.png "foto3.png")
 
 # Quiero unirme
 
