@@ -14,6 +14,8 @@ Al unirte a HackerspaceVLC pasarás a ser un miembro más de la asociación con 
 
 Para asociarte necesitarás traer tu DNI, aceptar el [régimen interno](DocumentoRegimenInterno.pdf) del HackerspaceVLC y en función de tu situación, abonar durante los 5 primeros días de cada mes la cuota mensual que te corresponda por transferencia bancaria al número de cuenta que se te facilitará en el momento de la inscripción.
 
+### Cuotas
+
 | Situación | Cuota |
 |-----------|-------|
 | Regular | **20€** / mes |
