@@ -23,7 +23,7 @@ de los socios imparte un taller sobre algún tema interesante que conozca en det
 
 Al unirte a HackerspaceVLC pasarás a ser un miembro más de la asociación con pleno derecho a utilizar nuestras instalaciones y equipamiento, como equipos de soldadura, electrónica, ordenadores, etc... Para asociarte tan solo deberás venir una de las jornadas de puertas abiertas y podrás unirte en el mismo día.
 
-Para asociarte necesitarás traer tu DNI, aceptar el [régimen interno](DocumentoRegimenInterno.pdf) del HackerspaceVLC y en función de tu situación, abonar durante los 5 primeros días de cada mes la cuota mensual que te corresponda por transferencia bancaria al número de cuenta que se te facilitará en el momento de la inscripción.
+Para asociarte necesitarás traer tu DNI, aceptar el [régimen interno](RegimenInterno.pdf) del HackerspaceVLC y en función de tu situación, abonar durante los 5 primeros días de cada mes la cuota mensual que te corresponda por transferencia bancaria al número de cuenta que se te facilitará en el momento de la inscripción.
 
 # Cuotas
 
