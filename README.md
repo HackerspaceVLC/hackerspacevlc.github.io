@@ -57,3 +57,7 @@ España
 ![mini_mapa.png](mini_mapa.png "Mapa")
 
 [Ampliar el mapa](https://www.openstreetmap.org/?mlat=39.48828&mlon=-0.35839#map=19/39.48828/-0.35839&layers=N)
+
+# Meetup
+
+<iframe width="600" height="300" src="http://meetu.ps/3fx94l" frameborder="0"></iframe>
