@@ -29,8 +29,8 @@ Para asociarte necesitarás traer tu DNI, aceptar el [régimen interno](RegimenI
 
 | Situación | Cuota |
 |-----------|-------|
-| Regular | **20€** / mes |
-| Estudiante, desempleado o jubilado | **8€** / mes |
+| Regular | **25€** / mes |
+| Estudiante, desempleado o jubilado | **10€** / mes |
 
 # Contacto
 
