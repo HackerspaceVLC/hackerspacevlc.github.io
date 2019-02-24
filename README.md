@@ -14,13 +14,15 @@ Disponemos de un local en el barrio de Benimaclet donde los socios y socias pued
 
 Además, realizamos talleres y charlas abiertas a todo el público, sobre múltiples temas que despiertan interés en la comunidad (Arduino, Impresión 3D, FPGAs, IoT, LoRaWAN/TTN, Restauración de radios de válvulas, soldadura SMD, FreeCad, KiCad, Administración de sistemas...).
 
-Puedes consultar nuestras actividades en [Meetup](https://www.meetup.com/es-ES/Hackerspace-Valencia/)
+Puedes consultar nuestras actividades en [Meetup](https://www.meetup.com/es-ES/Hackerspace-Valencia/events/)
 
-![foto1.png](foto1.png "foto1.png")
+![local.jpg](local.jpg "local.jpg")
 
-![foto2.png](foto2.png "foto2.png")
+![Fachada_Hackerspace.jpg](Fachada_Hackerspace.jpg "Fachada_Hackerspace.jpg")
 
 ![foto3.png](foto3.png "foto3.png")
+
+![Recreativa.jpg](Recreativa.jpg "Recreativa.jpg")
 
 # Quiero unirme
 
