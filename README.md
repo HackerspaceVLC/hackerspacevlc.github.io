@@ -22,7 +22,7 @@ Puedes consultar nuestras actividades en [Meetup](https://www.meetup.com/es-ES/H
 
 ![foto3.png](foto3.png "foto3.png")
 
-![Recreativa.jpg](Recreativa.jpg "Recreativa.jpg")
+![Recreativa.png](Recreativa.png "Recreativa.png")
 
 # Quiero unirme
 
@@ -34,7 +34,7 @@ Para asociarte necesitarás venir y rellenar el [Formulario de alta](FormularioA
 
 | Situación | Cuota |
 |-----------|-------|
-| trabajador en activo | **25€** / mes |
+| En activo | **25€** / mes |
 | Estudiante, desempleado o jubilado | **10€** / mes |
 
 # Contacto
