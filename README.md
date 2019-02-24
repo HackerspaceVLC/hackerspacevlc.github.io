@@ -4,14 +4,17 @@ Los [Hackerspace](http://hackerspaces.org/) son un espacio común donde todo tip
 
 # Nuestra Asociación
 
-HackerspaceVLC es un espacio abierto a todos y a todas las personas que tengan interés por aprender y compartir la tecnología, aprender a utilizarla, modificarla y reaprovecharla a nuestro gusto. Queremos poner la tecnología al servicio de las personas, aprovechándola más allá de lo que los fabricantes y corporaciones decidieron al crearla. Dándole una segunda vida a aquellos aparatos que ya no utilizamos, evitando crear nuevos deshechos y poniéndolos en manos de otras personas que sí los van a aprovechar.
+HackerspaceVLC es un espacio Maker que promueve el uso de las tecnologías libres. Es un espacio abierto a todas las personas que tengan interés por aprender y compartir la tecnología, aprender a utilizarla, modificarla y reaprovecharla a nuestro gusto. Queremos poner la tecnología al servicio de las personas, aprovechándola más allá de lo que los fabricantes y corporaciones decidieron al crearla. Dándole una segunda vida a aquellos aparatos que ya no utilizamos, evitando crear nuevos deshechos y poniéndolos en manos de otras personas que sí los van a aprovechar.
 
 No es necesario que tengas conocimientos sobre informática o electrónica, en el HackerspaceVLC encaja toda persona que tenga interés por aprender y pasarlo bien es bienvenida.
 
 # Local y actividades
 
-Disponemos de un local en el barrio de Benimaclet donde los socios y socias pueden reunirse y poner en marcha sus proyectos, con equipamiento, espacio de almacenaje y espacios de trabajo. Además, el primer sábado de cada mes uno
-de los socios imparte un taller sobre algún tema interesante que conozca en detalle, para compartir conocimientos y ponernos al día.
+Disponemos de un local en el barrio de Benimaclet donde los socios y socias pueden reunirse y poner en marcha sus proyectos, con equipamiento, espacio de almacenaje y espacios de trabajo.
+
+Además, realizamos talleres y charlas abiertas a todo el público, sobre múltiples temas que despiertan interés en la comunidad (Arduino, Impresión 3D, FPGAs, IoT, LoRaWAN/TTN, Restauración de radios de válvulas, soldadura SMD, FreeCad, KiCad, Administración de sistemas...).
+
+Puedes consultar nuestras actividades en [Meetup](https://www.meetup.com/es-ES/Hackerspace-Valencia/)
 
 ![foto1.png](foto1.png "foto1.png")
 
@@ -21,15 +24,15 @@ de los socios imparte un taller sobre algún tema interesante que conozca en det
 
 # Quiero unirme
 
-Al unirte a HackerspaceVLC pasarás a ser un miembro más de la asociación con pleno derecho a utilizar nuestras instalaciones y equipamiento, como equipos de soldadura, electrónica, ordenadores, etc... Para asociarte tan solo deberás venir una de las jornadas de puertas abiertas y podrás unirte en el mismo día.
+Al unirte a HackerspaceVLC pasarás a ser un miembro más de la asociación con pleno derecho a utilizar nuestras instalaciones y equipamiento, como equipos de soldadura, electrónica, ordenadores, etc... además de conocer a otras personas que dominan disciplinas que tú desconoces, por lo que el aprendizaje está garantizado. Para asociarte tan solo deberás venir una de las jornadas de puertas abiertas y podrás unirte en el mismo día.
 
-Para asociarte necesitarás traer tu DNI, aceptar el [régimen interno](RegimenInterno.pdf) del HackerspaceVLC y en función de tu situación, abonar durante los 5 primeros días de cada mes la cuota mensual que te corresponda por transferencia bancaria al número de cuenta que se te facilitará en el momento de la inscripción.
+Para asociarte necesitarás venir y rellenar el [Formulario de alta](FormularioAltaHackerspace_V2.0.pdf) del HackerspaceVLC y en función de tu situación laboral, se te cobrará por el banco a principios de mes la cuota mensual que te corresponda.
 
 # Cuotas
 
 | Situación | Cuota |
 |-----------|-------|
-| Regular | **25€** / mes |
+| trabajador en activo | **25€** / mes |
 | Estudiante, desempleado o jubilado | **10€** / mes |
 
 # Contacto
