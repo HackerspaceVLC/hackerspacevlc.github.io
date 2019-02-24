@@ -16,13 +16,9 @@ Además, realizamos talleres y charlas abiertas a todo el público, sobre múlti
 
 Puedes consultar nuestras actividades en [Meetup](https://www.meetup.com/es-ES/Hackerspace-Valencia/events/)
 
-![local.jpg](local.jpg "local.jpg")
+![local.jpg](local.jpg "local.jpg") ![Fachada_Hackerspace.jpg](Fachada_Hackerspace.jpg "Fachada_Hackerspace.jpg")
 
-![Fachada_Hackerspace.jpg](Fachada_Hackerspace.jpg "Fachada_Hackerspace.jpg")
-
-![foto3.png](foto3.png "foto3.png")
-
-![Recreativa.png](Recreativa.png "Recreativa.png")
+![foto3.png](foto3.png "foto3.png") ![Recreativa.png](Recreativa.png "Recreativa.png")
 
 # Quiero unirme
 
