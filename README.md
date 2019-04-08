@@ -1,4 +1,4 @@
-# HackerspaceVLC
+# Hackerspace Valencia
 
 Los [Hackerspace](http://hackerspaces.org/) son un espacio común donde todo tipo de gente se reúne, comparte su interés en la tecnología y colabora en proyectos para aprender unos de otros.
 
