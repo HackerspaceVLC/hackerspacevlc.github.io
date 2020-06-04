@@ -60,4 +60,4 @@ España
 
 # Meetup
 
-<iframe width="700" height="1000" src="https://meetu.ps/3fx94l" frameborder="0"></iframe>
+<iframe width="700" height="1000" src="https://www.meetup.com/es-ES/Hackerspace-Valencia/" frameborder="0"></iframe>
