@@ -60,4 +60,4 @@ España
 
 # Meetup
 
-<iframe width="700" height="1000" src="https://www.meetup.com/es-ES/Hackerspace-Valencia/" frameborder="0"></iframe>
+[IR a Meetup](https://www.meetup.com/es-ES/Hackerspace-Valencia/)
